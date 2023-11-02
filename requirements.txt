@@ -95,6 +95,7 @@ pandas==2.1.2
 pandocfilters @ file:///opt/conda/conda-bld/pandocfilters_1643405455980/work
 parso @ file:///opt/conda/conda-bld/parso_1641458642106/work
 pexpect @ file:///tmp/build/80754af9/pexpect_1605563209008/work
+pickle4==0.0.1
 pickleshare @ file:///tmp/build/80754af9/pickleshare_1606932040724/work
 Pillow==10.1.0
 pkginfo==1.9.6
